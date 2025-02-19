@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry Elliott</h1>
-<h3 align="center">I'm have been very interested about learning programming for my whole life reading books, going to camps/classes, and taking online courses. Working towards hopefully getting a software dev job and I'm having fun with game dev where I mostly do programming in Godot and art. I also like to play video games in my free time.</h3>
+<h3 align="center">I am a highschool student. I have been very interested about learning programming for my whole life reading books, going to camps/classes, and taking online courses. Working towards hopefully getting a software dev job and I'm having fun with game dev where I mostly do programming in Godot and art. I also like to play video games in my free time.</h3>
 
 - 🔭 I’m currently working on [A 2D Co-op Platformer Game](https://github.com/ManOfGoldForever/co-op-game)
 

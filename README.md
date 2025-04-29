@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Henry Elliott</h1>
 <h3 align="center">I am a high school student. I have been very interested about learning programming for my whole life reading books, going to camps/classes, and taking online courses. Working towards hopefully getting a software dev job and I'm having fun with game dev where I mostly do programming in Godot and art. I also like to play video games in my free time.</h3>
 
-- 🔭 I’m currently working on [A 2D Co-op Platformer Game](https://github.com/ManOfGoldForever/co-op-game)
+- 🔭 I’m currently working on A 2D Co-op Platformer Game and [A 3D ps1/psx style horror game](https://store.steampowered.com/app/3620950/Out_of_Gear/). 
 
 - 🌱 I’m currently learning **Game dev, Gdscript, and Python**
 
-- 👯 I’m looking to collaborate on [A 3D Multiplayer Dungeon Crawler](https://github.com/ManOfGoldForever/Dungeon-Crawler)
+- 👯 I’m looking to collaborate on A 3D Multiplayer Dungeon Crawler
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

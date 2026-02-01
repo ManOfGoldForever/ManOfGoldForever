@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on A 2D Co-op Platformer Game and [A 3D ps1/psx style horror game](https://store.steampowered.com/app/3620950/Out_of_Gear/). 
 
-- 🌱 I’m currently learning **Game dev, Gdscript, and Python**
+- 🌱 I’m currently learning **Rust, Game dev, Gdscript, and Python**
 
 - 👯 I’m looking to collaborate on A 3D Multiplayer Dungeon Crawler
 
